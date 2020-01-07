@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "country_id": 2,
+    "value": 4933,
+    "census_date": "2016-09-19T17:12:21.769Z",
+    "min": 4680,
+    "max": 5186
+  },
+  {
+    "id": 2,
+    "country_id": 2,
+    "value": 5907,
+    "census_date": "2016-09-17T18:02:21.889Z",
+    "min": 5411,
+    "max": 6403
+  },
+  {
+    "id": 3,
+    "country_id": 2,
+    "value": 2930,
+    "census_date": "2016-09-15T00:22:57.776Z",
+    "min": 2783,
+    "max": 3077
+  },
+  {
+    "id": 4,
+    "country_id": 2,
+    "value": 5093,
+    "census_date": "2016-09-23T03:35:37.166Z",
+    "min": 4936,
+    "max": 5250
+  },
+  {
+    "id": 5,
+    "country_id": 2,
+    "value": 3950,
+    "census_date": "2016-09-16T09:33:49.875Z",
+    "min": 3739,
+    "max": 4161
+  },
+  {
+    "id": 6,
+    "country_id": 3,
+    "value": 3064,
+    "census_date": "2016-09-19T17:12:21.769Z",
+    "min": 2876,
+    "max": 3252
+  },
+  {
+    "id": 7,
+    "country_id": 3,
+    "value": 6389,
+    "census_date": "2016-09-17T18:02:21.889Z",
+    "min": 6151,
+    "max": 6627
+  },
+  {
+    "id": 8,
+    "country_id": 3,
+    "value": 4354,
+    "census_date": "2016-09-15T00:22:57.776Z",
+    "min": 4127,
+    "max": 4581
+  },
+  {
+    "id": 9,
+    "country_id": 3,
+    "value": 5744,
+    "census_date": "2016-09-23T03:35:37.166Z",
+    "min": 5590,
+    "max": 5898
+  },
+  {
+    "id": 10,
+    "country_id": 3,
+    "value": 2963,
+    "census_date": "2016-09-16T09:33:49.875Z",
+    "min": 2667,
+    "max": 3259
+  }
+]
